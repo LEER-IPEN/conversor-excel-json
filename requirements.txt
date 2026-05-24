@@ -1,0 +1,6 @@
+# Bibliotecas principais para manipulação de dados e planilhas
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Mecanismos (engines) para leitura e escrita de arquivos Excel
+openpyxl>=3.1.0
